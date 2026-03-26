@@ -114,7 +114,7 @@ export function Contacto() {
             <div className="bg-white p-4 rounded-3xl border border-gray-100 shadow-xl overflow-hidden group">
               <div className="relative h-[450px] rounded-2xl overflow-hidden">
                 <a
-                  href="https://maps.google.com"
+                  href="https://www.google.com/maps/search/?api=1&query=Francisco+Villa,+Luis+Donaldo+Colosio,+Ecatepec+de+Morelos,+M%C3%A9x."
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center justify-center h-full bg-gradient-to-br from-[#0C2340] to-[#1E5FA0] text-white hover:opacity-95 transition-opacity relative"
@@ -124,7 +124,7 @@ export function Contacto() {
                     <div className="bg-white/20 backdrop-blur-md w-20 h-20 rounded-2xl flex items-center justify-center mx-auto mb-6">
                       <MapPin className="w-10 h-10 text-white" />
                     </div>
-                    <p className="text-2xl font-bold mb-4">Ciudad de México, MX</p>
+                    <p className="text-2xl font-bold mb-4">Ecatepec de Morelos, Méx.</p>
                     <p className="text-gray-200 mb-8 max-w-xs mx-auto">Visítanos y conoce nuestro inventario de forma presencial.</p>
                     <span className="bg-white text-[#0C2340] px-8 py-3 rounded-xl font-bold shadow-lg hover:shadow-white/20 transition-all">
                       Abrir en Google Maps
@@ -139,7 +139,7 @@ export function Contacto() {
                   </div>
                   <div>
                     <h4 className="font-bold text-[#0C2340]">Dirección Principal</h4>
-                    <p className="text-gray-600">Av. Insurgentes Sur 1234, CDMX, México</p>
+                    <p className="text-gray-600">Francisco Villa, Luis Donaldo Colosio, Ecatepec de Morelos, Méx.</p>
                   </div>
                 </div>
               </div>
