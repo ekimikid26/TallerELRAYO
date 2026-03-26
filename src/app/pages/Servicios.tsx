@@ -197,7 +197,7 @@ export function Servicios() {
       {/* CTA */}
       <section className="px-4 py-24 bg-gradient-to-br from-[#1E5FA0] to-[#85B7EB] text-[#0C2340]">
         <div className="max-w-7xl mx-auto text-center">
-          <h2 className="text-4xl font-black mb-6">¿Tu vehículo necesita atención inmediata?</h2>
+          <h2 className="text-4xl font-black mb-6">¿Tu vehículo necesita atención?</h2>
           <p className="text-xl font-medium mb-10 max-w-2xl mx-auto opacity-80">
             Agenda tu cita hoy mismo y recibe una revisión de niveles sin costo adicional.
           </p>
