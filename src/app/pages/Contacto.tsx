@@ -114,7 +114,7 @@ export function Contacto() {
             <div className="bg-white p-4 rounded-3xl border border-gray-100 shadow-xl overflow-hidden group">
               <div className="relative h-[450px] rounded-2xl overflow-hidden">
                 <a
-                  href="https://www.google.com/maps/search/?api=1&query=Servicio+Mec%C3%A1nico,+Francisco+Villa,+Luis+Donaldo+Colosio,+55029+Ecatepec+de+Morelos,+M%C3%A9x."
+                  href="https://maps.app.goo.gl/inHACKKJqopfDNxu6"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center justify-center h-full bg-gradient-to-br from-[#0C2340] to-[#1E5FA0] text-white hover:opacity-95 transition-opacity relative"
